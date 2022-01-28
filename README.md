@@ -1,3 +1,1 @@
-## By XQII46
-
-Rehan Productions™️
+## By Rehan Productions™️
