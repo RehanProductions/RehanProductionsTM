@@ -6,11 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rehanproductions.github.io/RehanProductionsTM/Changelog/</loc>
-         <lastmod>2022-01-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://rehanproductions.github.io/RehanProductionsTM/Credit/</loc>
          <lastmod>2022-01-29</lastmod>
          <changefreq>daily</changefreq>
@@ -37,6 +32,11 @@
     </url>
     <url>
          <loc>https://rehanproductions.github.io/RehanProductionsTM/SocialLink/</loc>
+         <lastmod>2022-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rehanproductions.github.io/RehanProductionsTM/changelog/</loc>
          <lastmod>2022-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
