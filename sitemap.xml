@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://rehanproductions.github.io/RehanProductionsTM/Incoming-Update/</loc>
+         <lastmod>2022-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://rehanproductions.github.io/RehanProductionsTM/Introduction/</loc>
          <lastmod>2022-01-29</lastmod>
          <changefreq>daily</changefreq>
@@ -32,11 +37,6 @@
     </url>
     <url>
          <loc>https://rehanproductions.github.io/RehanProductionsTM/SocialLink/</loc>
-         <lastmod>2022-01-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://rehanproductions.github.io/RehanProductionsTM/Upcoming-Update/</loc>
          <lastmod>2022-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
