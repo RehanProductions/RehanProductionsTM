@@ -21,11 +21,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rehanproductions.github.io/RehanProductionsTM/License/</loc>
-         <lastmod>2022-01-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://rehanproductions.github.io/RehanProductionsTM/Our-Tesing-Game/</loc>
          <lastmod>2022-01-29</lastmod>
          <changefreq>daily</changefreq>
@@ -37,6 +32,11 @@
     </url>
     <url>
          <loc>https://rehanproductions.github.io/RehanProductionsTM/changelog/</loc>
+         <lastmod>2022-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rehanproductions.github.io/RehanProductionsTM/license/</loc>
          <lastmod>2022-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
