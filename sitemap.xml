@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+         <loc>https://rehanproductions.github.io/RehanProductionsTM/</loc>
+         <lastmod>2022-01-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://rehanproductions.github.io/RehanProductionsTM/About-us/</loc>
          <lastmod>2022-01-30</lastmod>
          <changefreq>daily</changefreq>
@@ -32,11 +37,6 @@
     </url>
     <url>
          <loc>https://rehanproductions.github.io/RehanProductionsTM/changelog/</loc>
-         <lastmod>2022-01-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://rehanproductions.github.io/RehanProductionsTM/ixndex/</loc>
          <lastmod>2022-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
